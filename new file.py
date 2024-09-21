@@ -1,2 +1,2 @@
 name = input ("Как тебя зовут?")
-print ("Привет," + name)
+print ("Пока," + name)
